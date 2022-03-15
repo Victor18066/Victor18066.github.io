@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pruebaReact/static/css/main.da25338c.css",
-    "main.js": "/pruebaReact/static/js/main.0d035670.js",
-    "static/css/562.eba77aa3.chunk.css": "/pruebaReact/static/css/562.eba77aa3.chunk.css",
-    "static/js/562.21b80954.chunk.js": "/pruebaReact/static/js/562.21b80954.chunk.js",
-    "static/js/132.d81cca53.chunk.js": "/pruebaReact/static/js/132.d81cca53.chunk.js",
-    "static/js/787.6ba3a324.chunk.js": "/pruebaReact/static/js/787.6ba3a324.chunk.js",
-    "index.html": "/pruebaReact/index.html",
-    "main.da25338c.css.map": "/pruebaReact/static/css/main.da25338c.css.map",
-    "main.0d035670.js.map": "/pruebaReact/static/js/main.0d035670.js.map",
-    "562.eba77aa3.chunk.css.map": "/pruebaReact/static/css/562.eba77aa3.chunk.css.map",
-    "562.21b80954.chunk.js.map": "/pruebaReact/static/js/562.21b80954.chunk.js.map",
-    "132.d81cca53.chunk.js.map": "/pruebaReact/static/js/132.d81cca53.chunk.js.map",
-    "787.6ba3a324.chunk.js.map": "/pruebaReact/static/js/787.6ba3a324.chunk.js.map"
+    "main.css": "/static/css/main.22d22cb6.css",
+    "main.js": "/static/js/main.7520724c.js",
+    "static/css/562.aa5202be.chunk.css": "/static/css/562.aa5202be.chunk.css",
+    "static/js/562.21b80954.chunk.js": "/static/js/562.21b80954.chunk.js",
+    "static/js/132.d81cca53.chunk.js": "/static/js/132.d81cca53.chunk.js",
+    "static/js/787.6ba3a324.chunk.js": "/static/js/787.6ba3a324.chunk.js",
+    "index.html": "/index.html",
+    "main.22d22cb6.css.map": "/static/css/main.22d22cb6.css.map",
+    "main.7520724c.js.map": "/static/js/main.7520724c.js.map",
+    "562.aa5202be.chunk.css.map": "/static/css/562.aa5202be.chunk.css.map",
+    "562.21b80954.chunk.js.map": "/static/js/562.21b80954.chunk.js.map",
+    "132.d81cca53.chunk.js.map": "/static/js/132.d81cca53.chunk.js.map",
+    "787.6ba3a324.chunk.js.map": "/static/js/787.6ba3a324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da25338c.css",
-    "static/js/main.0d035670.js"
+    "static/css/main.22d22cb6.css",
+    "static/js/main.7520724c.js"
   ]
 }
